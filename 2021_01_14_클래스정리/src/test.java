@@ -1,0 +1,16 @@
+
+public class test {
+
+	static void ¿ø³ÐÀÌ (double r) {
+		
+		System.out.println(r*r*Math.PI);
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		¿ø³ÐÀÌ(3);
+		
+	}
+
+}
